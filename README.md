@@ -12,4 +12,7 @@ Conteúdo abordado no módulo:
 - Teste de Interface (UI Testing) 
 
 # Conteúdo abordado neste repositório:
-- Introduçao a Testes Unitários
+- Introduçao a Testes Unitários: 
+  - Testes unitários para validaçao das operaçoes aritméticas de uma calculadora;
+  - Testes unitários para validaçao de números primos;
+  - Testes unitários para verificaçao de palíndromo.
