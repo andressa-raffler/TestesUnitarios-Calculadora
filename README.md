@@ -11,5 +11,5 @@ Conteúdo abordado no módulo:
 - RED, GREEN, REFACTOR
 - Teste de Interface (UI Testing) 
 
-# Conteúdo abordado neste repostiório:
+# Conteúdo abordado neste repositório:
 - Introduçao a Testes Unitários
